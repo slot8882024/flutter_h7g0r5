@@ -1,17 +1,10 @@
 {
-  "AB": {
-    "A": {
+  "useinfo": {
+    "info": {
       "U": "https://www.jzfdc88.cn/",
       "onoff": 5,
       "isios": 0,
       "iosU": "1",
-      "Area": [
-        "JP",
-        "CN",
-        "KH",
-        "PH",
-        "ID"
-      ],
       "Event": [
        
       ],
